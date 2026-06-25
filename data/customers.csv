@@ -1,0 +1,1401 @@
+customer_id,signup_date,country,acquisition_channel,age_bracket
+1,2026-02-12,USA,Pinterest,Millennial
+2,2026-03-13,USA,Pinterest,Millennial
+3,2026-06-03,USA,Pinterest,Millennial
+4,2026-01-22,USA,Pinterest,Millennial
+5,2026-06-18,USA,Pinterest,Millennial
+6,2026-06-03,USA,Pinterest,Millennial
+7,2026-03-27,USA,Organic,Millennial
+8,2026-02-24,USA,Facebook,Millennial
+9,2026-02-23,USA,Pinterest,Gen Z
+10,2026-02-10,USA,Pinterest,Millennial
+11,2026-04-13,USA,Facebook,Gen Z
+12,2026-05-12,USA,Facebook,Gen X
+13,2026-04-21,USA,Pinterest,Millennial
+14,2026-06-24,USA,Facebook,Gen X
+15,2026-06-11,USA,Pinterest,Millennial
+16,2026-03-14,USA,Organic,Gen X
+17,2026-03-15,USA,Organic,Millennial
+18,2026-05-11,USA,Facebook,Millennial
+19,2026-04-19,USA,Pinterest,Gen Z
+20,2026-02-02,USA,Facebook,Millennial
+21,2026-03-18,USA,Pinterest,Millennial
+22,2026-06-06,USA,Pinterest,Millennial
+23,2026-01-29,USA,Pinterest,Millennial
+24,2026-04-05,USA,Pinterest,Millennial
+25,2026-06-09,USA,Organic,Millennial
+26,2026-05-22,USA,Pinterest,Gen X
+27,2026-05-12,USA,Pinterest,Millennial
+28,2026-06-07,USA,Facebook,Gen Z
+29,2026-05-04,USA,Organic,Millennial
+30,2026-03-12,USA,Referral,Millennial
+31,2026-05-21,USA,Pinterest,Millennial
+32,2026-02-12,USA,Pinterest,Millennial
+33,2026-05-03,USA,Facebook,Millennial
+34,2026-06-16,USA,Referral,Millennial
+35,2026-06-05,USA,Organic,Millennial
+36,2026-02-13,USA,Facebook,Millennial
+37,2026-03-24,USA,Organic,Millennial
+38,2026-03-31,USA,Pinterest,Millennial
+39,2026-03-23,USA,Referral,Gen Z
+40,2026-05-24,USA,Organic,Gen X
+41,2026-04-01,USA,Organic,Millennial
+42,2026-03-06,USA,Pinterest,Gen Z
+43,2026-06-02,USA,Referral,Gen X
+44,2026-01-15,USA,Facebook,Millennial
+45,2026-02-12,USA,Organic,Gen X
+46,2026-04-03,USA,Pinterest,Millennial
+47,2026-06-09,USA,Referral,Millennial
+48,2026-05-19,USA,Organic,Gen X
+49,2026-05-31,USA,Organic,Millennial
+50,2026-05-16,USA,Referral,Millennial
+51,2026-05-30,USA,Organic,Millennial
+52,2026-03-10,USA,Organic,Gen Z
+53,2026-03-07,USA,Facebook,Millennial
+54,2026-04-20,USA,Pinterest,Millennial
+55,2026-02-14,USA,Pinterest,Millennial
+56,2026-01-20,USA,Facebook,Millennial
+57,2026-03-12,USA,Pinterest,Gen Z
+58,2026-01-30,USA,Pinterest,Gen X
+59,2026-04-09,USA,Pinterest,Millennial
+60,2026-05-19,USA,Pinterest,Millennial
+61,2026-06-10,USA,Facebook,Millennial
+62,2026-05-16,USA,Organic,Millennial
+63,2026-02-08,USA,Facebook,Millennial
+64,2026-04-30,USA,Facebook,Gen Z
+65,2026-02-09,USA,Pinterest,Gen Z
+66,2026-02-11,USA,Pinterest,Millennial
+67,2026-05-09,USA,Pinterest,Millennial
+68,2026-05-13,USA,Pinterest,Gen X
+69,2026-05-08,USA,Organic,Gen X
+70,2026-02-09,USA,Pinterest,Gen X
+71,2026-01-18,USA,Referral,Gen X
+72,2026-03-16,USA,Pinterest,Millennial
+73,2026-03-10,USA,Organic,Gen X
+74,2026-02-26,USA,Pinterest,Gen X
+75,2026-03-23,USA,Organic,Gen Z
+76,2026-03-29,USA,Pinterest,Gen X
+77,2026-06-06,USA,Facebook,Millennial
+78,2026-03-04,USA,Pinterest,Gen X
+79,2026-06-12,USA,Facebook,Millennial
+80,2026-04-05,USA,Pinterest,Gen Z
+81,2026-05-23,USA,Organic,Millennial
+82,2026-01-29,USA,Referral,Millennial
+83,2026-03-03,USA,Pinterest,Millennial
+84,2026-03-16,USA,Pinterest,Gen X
+85,2026-06-09,USA,Pinterest,Gen Z
+86,2026-06-22,USA,Pinterest,Gen Z
+87,2026-06-08,USA,Facebook,Gen X
+88,2026-03-08,USA,Facebook,Millennial
+89,2026-03-23,USA,Pinterest,Gen Z
+90,2026-04-01,USA,Facebook,Gen X
+91,2026-02-02,USA,Pinterest,Gen Z
+92,2026-06-08,USA,Referral,Millennial
+93,2026-03-10,USA,Facebook,Millennial
+94,2026-04-14,USA,Organic,Gen X
+95,2026-04-19,USA,Pinterest,Millennial
+96,2026-06-03,USA,Facebook,Gen Z
+97,2026-05-30,USA,Pinterest,Gen Z
+98,2026-04-01,USA,Referral,Millennial
+99,2026-02-18,USA,Pinterest,Gen X
+100,2026-06-05,USA,Pinterest,Millennial
+101,2026-03-09,USA,Facebook,Millennial
+102,2026-03-23,USA,Facebook,Millennial
+103,2026-01-28,USA,Pinterest,Millennial
+104,2026-03-26,USA,Pinterest,Millennial
+105,2026-02-17,USA,Facebook,Millennial
+106,2026-05-08,USA,Facebook,Millennial
+107,2026-01-17,USA,Pinterest,Gen X
+108,2026-02-22,USA,Facebook,Gen Z
+109,2026-06-13,USA,Facebook,Millennial
+110,2026-01-25,USA,Pinterest,Gen X
+111,2026-01-25,USA,Organic,Millennial
+112,2026-03-19,USA,Facebook,Millennial
+113,2026-06-07,USA,Organic,Millennial
+114,2026-06-22,USA,Facebook,Gen X
+115,2026-03-16,USA,Organic,Gen X
+116,2026-03-01,USA,Organic,Millennial
+117,2026-04-10,USA,Organic,Millennial
+118,2026-03-19,USA,Pinterest,Gen Z
+119,2026-02-11,USA,Pinterest,Millennial
+120,2026-05-15,USA,Pinterest,Gen Z
+121,2026-05-12,USA,Pinterest,Gen Z
+122,2026-03-14,USA,Pinterest,Gen Z
+123,2026-04-27,USA,Pinterest,Gen X
+124,2026-03-27,USA,Pinterest,Millennial
+125,2026-06-01,USA,Pinterest,Millennial
+126,2026-03-22,USA,Pinterest,Gen X
+127,2026-03-23,USA,Pinterest,Gen Z
+128,2026-04-13,USA,Facebook,Millennial
+129,2026-06-19,USA,Referral,Millennial
+130,2026-06-11,USA,Pinterest,Millennial
+131,2026-05-06,USA,Pinterest,Gen X
+132,2026-06-01,USA,Facebook,Gen X
+133,2026-03-06,USA,Pinterest,Millennial
+134,2026-04-09,USA,Facebook,Gen Z
+135,2026-02-15,USA,Facebook,Millennial
+136,2026-04-04,USA,Facebook,Millennial
+137,2026-03-31,USA,Facebook,Millennial
+138,2026-04-22,USA,Facebook,Gen X
+139,2026-06-21,USA,Facebook,Millennial
+140,2026-01-15,USA,Pinterest,Millennial
+141,2026-06-12,USA,Facebook,Millennial
+142,2026-05-08,USA,Pinterest,Millennial
+143,2026-05-16,USA,Organic,Gen X
+144,2026-02-27,USA,Facebook,Millennial
+145,2026-06-22,USA,Pinterest,Gen Z
+146,2026-03-16,USA,Facebook,Millennial
+147,2026-03-06,USA,Pinterest,Millennial
+148,2026-05-16,USA,Facebook,Gen Z
+149,2026-05-11,USA,Pinterest,Gen Z
+150,2026-03-05,USA,Facebook,Millennial
+151,2026-04-27,USA,Pinterest,Gen Z
+152,2026-01-16,USA,Organic,Gen X
+153,2026-02-11,USA,Organic,Millennial
+154,2026-05-27,USA,Facebook,Gen Z
+155,2026-02-15,USA,Facebook,Gen Z
+156,2026-05-30,USA,Referral,Gen Z
+157,2026-05-08,USA,Facebook,Gen Z
+158,2026-05-24,USA,Pinterest,Gen X
+159,2026-05-09,USA,Organic,Gen Z
+160,2026-05-16,USA,Facebook,Gen Z
+161,2026-03-26,USA,Organic,Millennial
+162,2026-06-24,USA,Pinterest,Millennial
+163,2026-03-29,USA,Pinterest,Millennial
+164,2026-06-02,USA,Pinterest,Millennial
+165,2026-04-23,USA,Facebook,Gen Z
+166,2026-01-31,USA,Pinterest,Millennial
+167,2026-05-14,USA,Pinterest,Millennial
+168,2026-05-02,USA,Pinterest,Gen Z
+169,2026-01-20,USA,Organic,Gen Z
+170,2026-04-22,USA,Facebook,Gen X
+171,2026-04-01,USA,Organic,Gen X
+172,2026-05-02,USA,Facebook,Gen Z
+173,2026-06-18,USA,Organic,Millennial
+174,2026-03-25,USA,Pinterest,Millennial
+175,2026-04-11,USA,Facebook,Gen Z
+176,2026-02-26,USA,Organic,Gen X
+177,2026-06-23,USA,Facebook,Gen X
+178,2026-06-15,USA,Facebook,Millennial
+179,2026-05-04,USA,Pinterest,Millennial
+180,2026-01-27,USA,Pinterest,Millennial
+181,2026-05-11,USA,Pinterest,Gen Z
+182,2026-04-22,USA,Pinterest,Gen X
+183,2026-05-02,USA,Pinterest,Millennial
+184,2026-01-19,USA,Facebook,Millennial
+185,2026-04-14,USA,Pinterest,Millennial
+186,2026-01-25,USA,Organic,Gen X
+187,2026-03-07,USA,Organic,Gen Z
+188,2026-03-17,USA,Pinterest,Gen Z
+189,2026-06-08,USA,Referral,Millennial
+190,2026-03-21,USA,Organic,Millennial
+191,2026-06-19,USA,Referral,Gen Z
+192,2026-02-25,USA,Referral,Millennial
+193,2026-01-21,USA,Organic,Gen Z
+194,2026-04-21,USA,Pinterest,Gen Z
+195,2026-02-03,USA,Facebook,Gen Z
+196,2026-03-18,USA,Pinterest,Gen Z
+197,2026-06-17,USA,Organic,Gen Z
+198,2026-06-08,USA,Organic,Millennial
+199,2026-05-04,USA,Facebook,Millennial
+200,2026-04-12,USA,Pinterest,Millennial
+201,2026-05-20,USA,Pinterest,Gen X
+202,2026-05-12,USA,Facebook,Millennial
+203,2026-05-28,USA,Referral,Millennial
+204,2026-06-01,USA,Organic,Millennial
+205,2026-06-15,USA,Pinterest,Gen X
+206,2026-02-06,USA,Pinterest,Millennial
+207,2026-05-13,USA,Facebook,Gen Z
+208,2026-04-11,USA,Pinterest,Gen X
+209,2026-03-02,USA,Facebook,Millennial
+210,2026-03-22,USA,Pinterest,Gen X
+211,2026-03-26,USA,Facebook,Millennial
+212,2026-03-04,USA,Pinterest,Gen Z
+213,2026-05-20,USA,Facebook,Millennial
+214,2026-05-16,USA,Facebook,Millennial
+215,2026-01-19,USA,Pinterest,Millennial
+216,2026-03-18,USA,Pinterest,Gen Z
+217,2026-05-16,USA,Facebook,Millennial
+218,2026-06-04,USA,Pinterest,Gen Z
+219,2026-03-25,USA,Pinterest,Millennial
+220,2026-03-05,USA,Pinterest,Gen Z
+221,2026-03-03,USA,Pinterest,Gen Z
+222,2026-03-26,USA,Facebook,Gen X
+223,2026-05-29,USA,Facebook,Gen X
+224,2026-03-05,USA,Pinterest,Millennial
+225,2026-04-02,USA,Pinterest,Millennial
+226,2026-03-26,USA,Pinterest,Millennial
+227,2026-03-30,USA,Facebook,Millennial
+228,2026-05-20,USA,Pinterest,Millennial
+229,2026-03-28,USA,Facebook,Millennial
+230,2026-03-03,USA,Referral,Millennial
+231,2026-05-17,USA,Pinterest,Millennial
+232,2026-05-20,USA,Pinterest,Gen Z
+233,2026-01-28,USA,Pinterest,Gen Z
+234,2026-04-02,USA,Pinterest,Millennial
+235,2026-06-06,USA,Organic,Gen Z
+236,2026-06-22,USA,Pinterest,Millennial
+237,2026-05-10,USA,Organic,Millennial
+238,2026-06-14,USA,Referral,Millennial
+239,2026-06-22,USA,Pinterest,Gen X
+240,2026-02-09,USA,Referral,Millennial
+241,2026-03-10,USA,Pinterest,Millennial
+242,2026-03-17,USA,Pinterest,Millennial
+243,2026-01-15,USA,Pinterest,Gen Z
+244,2026-05-15,USA,Pinterest,Millennial
+245,2026-03-28,USA,Facebook,Millennial
+246,2026-03-15,USA,Organic,Gen Z
+247,2026-06-24,USA,Facebook,Gen Z
+248,2026-03-06,USA,Pinterest,Millennial
+249,2026-02-22,USA,Organic,Gen Z
+250,2026-02-02,USA,Pinterest,Gen Z
+251,2026-06-16,USA,Facebook,Gen Z
+252,2026-03-29,USA,Pinterest,Millennial
+253,2026-04-02,USA,Facebook,Gen X
+254,2026-05-23,USA,Facebook,Millennial
+255,2026-06-17,USA,Pinterest,Millennial
+256,2026-04-07,USA,Facebook,Millennial
+257,2026-03-14,USA,Referral,Gen Z
+258,2026-06-11,USA,Facebook,Millennial
+259,2026-03-24,USA,Facebook,Gen Z
+260,2026-02-28,USA,Facebook,Gen Z
+261,2026-03-27,USA,Pinterest,Gen Z
+262,2026-05-20,USA,Referral,Millennial
+263,2026-04-29,USA,Pinterest,Gen Z
+264,2026-02-25,USA,Pinterest,Gen Z
+265,2026-03-29,USA,Facebook,Millennial
+266,2026-06-04,USA,Pinterest,Millennial
+267,2026-03-20,USA,Pinterest,Gen X
+268,2026-04-28,USA,Organic,Gen Z
+269,2026-01-15,USA,Facebook,Millennial
+270,2026-04-30,USA,Pinterest,Millennial
+271,2026-06-23,USA,Organic,Gen Z
+272,2026-01-28,USA,Pinterest,Millennial
+273,2026-03-29,USA,Pinterest,Gen Z
+274,2026-02-15,USA,Pinterest,Gen Z
+275,2026-03-17,USA,Facebook,Millennial
+276,2026-01-18,USA,Facebook,Millennial
+277,2026-02-13,USA,Facebook,Millennial
+278,2026-02-23,USA,Facebook,Gen Z
+279,2026-05-25,USA,Facebook,Millennial
+280,2026-05-18,USA,Referral,Millennial
+281,2026-06-05,USA,Pinterest,Millennial
+282,2026-06-17,USA,Facebook,Gen X
+283,2026-02-01,USA,Pinterest,Gen Z
+284,2026-05-01,USA,Pinterest,Gen Z
+285,2026-03-24,USA,Organic,Millennial
+286,2026-04-01,USA,Organic,Gen Z
+287,2026-05-20,USA,Organic,Millennial
+288,2026-05-18,USA,Pinterest,Gen Z
+289,2026-06-03,USA,Pinterest,Gen X
+290,2026-03-04,USA,Referral,Millennial
+291,2026-04-23,USA,Pinterest,Gen Z
+292,2026-01-26,USA,Pinterest,Millennial
+293,2026-04-22,USA,Pinterest,Gen Z
+294,2026-02-22,USA,Facebook,Millennial
+295,2026-05-23,USA,Referral,Millennial
+296,2026-02-09,USA,Organic,Millennial
+297,2026-05-29,USA,Organic,Millennial
+298,2026-02-20,USA,Pinterest,Gen Z
+299,2026-02-23,USA,Pinterest,Gen Z
+300,2026-03-23,USA,Pinterest,Gen Z
+301,2026-02-04,USA,Organic,Gen X
+302,2026-05-31,USA,Pinterest,Millennial
+303,2026-05-19,USA,Organic,Millennial
+304,2026-02-01,USA,Pinterest,Gen Z
+305,2026-03-29,USA,Referral,Gen Z
+306,2026-05-06,USA,Referral,Gen Z
+307,2026-02-09,USA,Pinterest,Gen Z
+308,2026-01-22,USA,Pinterest,Gen Z
+309,2026-03-31,USA,Pinterest,Millennial
+310,2026-03-18,USA,Facebook,Gen Z
+311,2026-03-02,USA,Pinterest,Millennial
+312,2026-04-22,USA,Facebook,Millennial
+313,2026-06-13,USA,Pinterest,Millennial
+314,2026-03-21,USA,Facebook,Gen Z
+315,2026-05-14,USA,Organic,Gen Z
+316,2026-02-24,USA,Pinterest,Gen X
+317,2026-06-14,USA,Pinterest,Gen X
+318,2026-03-20,USA,Facebook,Millennial
+319,2026-04-23,USA,Organic,Millennial
+320,2026-04-22,USA,Facebook,Gen Z
+321,2026-03-31,USA,Pinterest,Gen Z
+322,2026-04-26,USA,Pinterest,Gen Z
+323,2026-01-27,USA,Organic,Gen Z
+324,2026-03-29,USA,Organic,Millennial
+325,2026-04-15,USA,Pinterest,Millennial
+326,2026-03-20,USA,Facebook,Gen Z
+327,2026-02-19,USA,Facebook,Gen X
+328,2026-01-25,USA,Pinterest,Millennial
+329,2026-06-12,USA,Pinterest,Millennial
+330,2026-03-31,USA,Pinterest,Millennial
+331,2026-03-07,USA,Pinterest,Millennial
+332,2026-04-18,USA,Facebook,Gen X
+333,2026-02-26,USA,Pinterest,Gen Z
+334,2026-05-18,USA,Referral,Millennial
+335,2026-04-11,USA,Organic,Millennial
+336,2026-02-03,USA,Pinterest,Gen X
+337,2026-04-26,USA,Referral,Gen Z
+338,2026-04-18,USA,Pinterest,Millennial
+339,2026-03-23,USA,Facebook,Millennial
+340,2026-03-23,USA,Facebook,Gen Z
+341,2026-04-20,USA,Pinterest,Millennial
+342,2026-01-21,USA,Facebook,Gen X
+343,2026-04-08,USA,Organic,Millennial
+344,2026-01-31,USA,Facebook,Millennial
+345,2026-04-02,USA,Facebook,Millennial
+346,2026-01-26,USA,Referral,Millennial
+347,2026-05-21,USA,Pinterest,Millennial
+348,2026-06-01,USA,Pinterest,Millennial
+349,2026-06-02,USA,Pinterest,Gen Z
+350,2026-02-23,USA,Organic,Gen Z
+351,2026-05-20,USA,Facebook,Gen X
+352,2026-03-27,USA,Pinterest,Millennial
+353,2026-05-08,USA,Pinterest,Millennial
+354,2026-04-17,USA,Pinterest,Gen Z
+355,2026-06-03,USA,Organic,Gen Z
+356,2026-01-30,USA,Pinterest,Millennial
+357,2026-02-15,USA,Referral,Gen Z
+358,2026-02-07,USA,Facebook,Gen Z
+359,2026-06-16,USA,Referral,Millennial
+360,2026-04-10,USA,Pinterest,Millennial
+361,2026-06-08,USA,Pinterest,Gen Z
+362,2026-06-05,USA,Pinterest,Millennial
+363,2026-03-15,USA,Pinterest,Millennial
+364,2026-06-16,USA,Pinterest,Gen X
+365,2026-02-21,USA,Referral,Millennial
+366,2026-02-28,USA,Pinterest,Gen X
+367,2026-02-17,USA,Pinterest,Gen Z
+368,2026-03-16,USA,Facebook,Millennial
+369,2026-03-23,USA,Pinterest,Gen Z
+370,2026-05-29,USA,Pinterest,Millennial
+371,2026-05-09,USA,Organic,Millennial
+372,2026-02-11,USA,Facebook,Millennial
+373,2026-06-21,USA,Pinterest,Gen Z
+374,2026-05-28,USA,Pinterest,Gen Z
+375,2026-01-22,USA,Pinterest,Millennial
+376,2026-04-27,USA,Pinterest,Millennial
+377,2026-05-08,USA,Pinterest,Millennial
+378,2026-06-19,USA,Pinterest,Millennial
+379,2026-06-23,USA,Facebook,Millennial
+380,2026-04-08,USA,Pinterest,Gen Z
+381,2026-03-31,USA,Facebook,Gen Z
+382,2026-02-09,USA,Organic,Millennial
+383,2026-06-05,USA,Facebook,Millennial
+384,2026-05-10,USA,Organic,Millennial
+385,2026-05-11,USA,Pinterest,Gen Z
+386,2026-04-05,USA,Pinterest,Gen Z
+387,2026-04-20,USA,Referral,Gen Z
+388,2026-05-16,USA,Pinterest,Gen Z
+389,2026-02-07,USA,Pinterest,Gen Z
+390,2026-04-20,USA,Organic,Gen Z
+391,2026-06-14,USA,Referral,Gen Z
+392,2026-02-15,USA,Pinterest,Gen X
+393,2026-05-03,USA,Organic,Gen Z
+394,2026-03-29,USA,Facebook,Millennial
+395,2026-06-11,USA,Facebook,Millennial
+396,2026-05-18,USA,Pinterest,Millennial
+397,2026-06-06,USA,Pinterest,Gen Z
+398,2026-06-10,USA,Pinterest,Millennial
+399,2026-06-07,USA,Referral,Gen Z
+400,2026-06-21,USA,Facebook,Gen Z
+401,2026-06-19,USA,Organic,Gen Z
+402,2026-03-24,USA,Pinterest,Millennial
+403,2026-04-04,USA,Organic,Millennial
+404,2026-03-02,USA,Organic,Gen Z
+405,2026-04-27,USA,Pinterest,Gen Z
+406,2026-01-22,USA,Pinterest,Millennial
+407,2026-04-21,USA,Pinterest,Millennial
+408,2026-04-19,USA,Pinterest,Millennial
+409,2026-06-09,USA,Facebook,Gen X
+410,2026-02-23,USA,Pinterest,Gen Z
+411,2026-02-04,USA,Pinterest,Gen Z
+412,2026-05-19,USA,Facebook,Millennial
+413,2026-03-11,USA,Organic,Millennial
+414,2026-05-05,USA,Pinterest,Gen Z
+415,2026-06-15,USA,Facebook,Gen Z
+416,2026-01-26,USA,Pinterest,Gen X
+417,2026-01-29,USA,Pinterest,Millennial
+418,2026-03-10,USA,Organic,Gen Z
+419,2026-03-30,USA,Pinterest,Millennial
+420,2026-05-05,USA,Pinterest,Millennial
+421,2026-03-14,USA,Facebook,Gen Z
+422,2026-04-15,USA,Pinterest,Gen X
+423,2026-01-25,USA,Pinterest,Millennial
+424,2026-02-03,USA,Organic,Gen Z
+425,2026-06-10,USA,Pinterest,Gen Z
+426,2026-03-30,USA,Pinterest,Millennial
+427,2026-04-08,USA,Pinterest,Gen X
+428,2026-05-12,USA,Organic,Gen X
+429,2026-02-06,USA,Pinterest,Millennial
+430,2026-05-06,USA,Facebook,Millennial
+431,2026-04-26,USA,Organic,Gen Z
+432,2026-03-12,USA,Pinterest,Millennial
+433,2026-05-25,USA,Facebook,Millennial
+434,2026-03-05,USA,Organic,Millennial
+435,2026-02-21,USA,Pinterest,Millennial
+436,2026-03-06,USA,Pinterest,Millennial
+437,2026-02-03,USA,Pinterest,Gen Z
+438,2026-05-21,USA,Facebook,Gen Z
+439,2026-06-12,USA,Pinterest,Gen X
+440,2026-06-08,USA,Facebook,Gen X
+441,2026-04-07,USA,Organic,Gen Z
+442,2026-02-22,USA,Pinterest,Millennial
+443,2026-04-02,USA,Organic,Gen Z
+444,2026-04-15,USA,Facebook,Millennial
+445,2026-05-10,USA,Pinterest,Millennial
+446,2026-03-29,USA,Pinterest,Gen X
+447,2026-02-07,USA,Facebook,Millennial
+448,2026-05-13,USA,Facebook,Gen X
+449,2026-01-25,USA,Pinterest,Gen Z
+450,2026-03-04,USA,Pinterest,Millennial
+451,2026-02-22,USA,Referral,Millennial
+452,2026-04-12,USA,Referral,Millennial
+453,2026-02-28,USA,Pinterest,Gen Z
+454,2026-05-07,USA,Facebook,Gen Z
+455,2026-04-18,USA,Pinterest,Millennial
+456,2026-04-29,USA,Organic,Gen Z
+457,2026-01-28,USA,Organic,Gen Z
+458,2026-01-31,USA,Pinterest,Gen Z
+459,2026-04-23,USA,Pinterest,Gen Z
+460,2026-06-18,USA,Organic,Millennial
+461,2026-06-13,USA,Facebook,Gen X
+462,2026-04-04,USA,Referral,Gen Z
+463,2026-04-25,USA,Pinterest,Gen Z
+464,2026-02-05,USA,Pinterest,Millennial
+465,2026-04-09,USA,Organic,Gen Z
+466,2026-05-29,USA,Pinterest,Gen Z
+467,2026-05-25,USA,Pinterest,Millennial
+468,2026-03-02,USA,Referral,Millennial
+469,2026-05-19,USA,Pinterest,Gen X
+470,2026-02-23,USA,Pinterest,Gen Z
+471,2026-02-09,USA,Facebook,Millennial
+472,2026-05-29,USA,Pinterest,Millennial
+473,2026-06-22,USA,Pinterest,Millennial
+474,2026-02-25,USA,Pinterest,Gen Z
+475,2026-06-23,USA,Organic,Millennial
+476,2026-05-07,USA,Pinterest,Millennial
+477,2026-03-16,USA,Referral,Gen Z
+478,2026-05-09,USA,Pinterest,Millennial
+479,2026-05-15,USA,Organic,Millennial
+480,2026-06-10,USA,Referral,Millennial
+481,2026-03-28,USA,Organic,Millennial
+482,2026-05-02,USA,Referral,Gen Z
+483,2026-06-18,USA,Pinterest,Millennial
+484,2026-05-18,USA,Organic,Gen Z
+485,2026-02-10,USA,Facebook,Millennial
+486,2026-02-15,USA,Pinterest,Gen Z
+487,2026-03-25,USA,Pinterest,Millennial
+488,2026-05-06,USA,Pinterest,Gen X
+489,2026-05-10,USA,Organic,Gen X
+490,2026-05-01,USA,Pinterest,Millennial
+491,2026-03-16,USA,Pinterest,Millennial
+492,2026-03-13,USA,Pinterest,Gen X
+493,2026-04-10,USA,Organic,Millennial
+494,2026-03-29,USA,Organic,Millennial
+495,2026-02-19,USA,Organic,Millennial
+496,2026-06-21,USA,Pinterest,Millennial
+497,2026-03-21,USA,Pinterest,Millennial
+498,2026-06-19,USA,Facebook,Millennial
+499,2026-03-29,USA,Pinterest,Millennial
+500,2026-03-17,USA,Pinterest,Gen Z
+501,2026-05-12,USA,Pinterest,Gen Z
+502,2026-05-22,USA,Facebook,Millennial
+503,2026-05-26,USA,Facebook,Gen Z
+504,2026-03-30,USA,Pinterest,Gen Z
+505,2026-03-17,USA,Facebook,Millennial
+506,2026-02-05,USA,Facebook,Millennial
+507,2026-05-29,USA,Facebook,Gen Z
+508,2026-05-24,USA,Facebook,Millennial
+509,2026-05-15,USA,Pinterest,Millennial
+510,2026-04-20,USA,Pinterest,Millennial
+511,2026-02-01,USA,Pinterest,Gen Z
+512,2026-06-24,USA,Pinterest,Gen Z
+513,2026-04-10,USA,Pinterest,Millennial
+514,2026-04-11,USA,Organic,Millennial
+515,2026-05-13,USA,Referral,Millennial
+516,2026-03-02,USA,Organic,Millennial
+517,2026-05-12,USA,Pinterest,Millennial
+518,2026-03-07,USA,Organic,Millennial
+519,2026-04-04,USA,Facebook,Gen X
+520,2026-06-03,USA,Facebook,Millennial
+521,2026-03-04,USA,Pinterest,Gen X
+522,2026-01-27,USA,Organic,Millennial
+523,2026-02-15,USA,Organic,Millennial
+524,2026-04-27,USA,Facebook,Gen X
+525,2026-04-23,USA,Pinterest,Millennial
+526,2026-05-22,USA,Pinterest,Gen Z
+527,2026-03-24,USA,Organic,Gen Z
+528,2026-02-04,USA,Pinterest,Gen X
+529,2026-03-02,USA,Facebook,Millennial
+530,2026-02-04,USA,Pinterest,Millennial
+531,2026-05-09,USA,Facebook,Millennial
+532,2026-05-08,USA,Pinterest,Millennial
+533,2026-04-15,USA,Facebook,Millennial
+534,2026-01-29,USA,Pinterest,Gen Z
+535,2026-04-18,USA,Facebook,Gen Z
+536,2026-02-24,USA,Referral,Millennial
+537,2026-06-19,USA,Facebook,Millennial
+538,2026-02-16,USA,Pinterest,Gen Z
+539,2026-04-18,USA,Pinterest,Gen X
+540,2026-01-23,USA,Facebook,Gen Z
+541,2026-04-19,USA,Pinterest,Gen Z
+542,2026-06-10,USA,Pinterest,Millennial
+543,2026-04-05,USA,Facebook,Millennial
+544,2026-02-13,USA,Pinterest,Millennial
+545,2026-05-27,USA,Pinterest,Gen Z
+546,2026-03-23,USA,Organic,Gen Z
+547,2026-03-10,USA,Referral,Millennial
+548,2026-05-20,USA,Pinterest,Millennial
+549,2026-02-02,USA,Facebook,Gen X
+550,2026-05-08,USA,Referral,Gen Z
+551,2026-04-06,USA,Facebook,Gen Z
+552,2026-06-04,USA,Facebook,Gen X
+553,2026-02-24,USA,Facebook,Gen X
+554,2026-02-28,USA,Organic,Millennial
+555,2026-02-15,USA,Referral,Gen Z
+556,2026-03-16,USA,Organic,Millennial
+557,2026-06-05,USA,Facebook,Millennial
+558,2026-06-05,USA,Pinterest,Gen X
+559,2026-01-31,USA,Pinterest,Gen X
+560,2026-05-17,USA,Facebook,Gen Z
+561,2026-06-11,USA,Pinterest,Gen X
+562,2026-02-02,USA,Pinterest,Gen Z
+563,2026-04-13,USA,Pinterest,Gen Z
+564,2026-06-05,USA,Facebook,Millennial
+565,2026-02-17,USA,Pinterest,Gen X
+566,2026-01-29,USA,Organic,Millennial
+567,2026-04-02,USA,Pinterest,Millennial
+568,2026-03-13,USA,Pinterest,Gen X
+569,2026-03-28,USA,Organic,Millennial
+570,2026-06-05,USA,Pinterest,Gen Z
+571,2026-06-21,USA,Facebook,Millennial
+572,2026-02-27,USA,Facebook,Gen Z
+573,2026-02-27,USA,Facebook,Gen Z
+574,2026-06-18,USA,Pinterest,Gen X
+575,2026-01-25,USA,Organic,Millennial
+576,2026-01-26,USA,Referral,Gen Z
+577,2026-03-23,USA,Facebook,Gen Z
+578,2026-05-01,USA,Facebook,Millennial
+579,2026-06-24,USA,Facebook,Gen Z
+580,2026-04-02,USA,Facebook,Gen Z
+581,2026-04-28,USA,Pinterest,Millennial
+582,2026-01-30,USA,Pinterest,Millennial
+583,2026-05-13,USA,Pinterest,Gen Z
+584,2026-04-05,USA,Organic,Millennial
+585,2026-04-13,USA,Referral,Millennial
+586,2026-04-19,USA,Facebook,Millennial
+587,2026-03-17,USA,Facebook,Millennial
+588,2026-03-19,USA,Pinterest,Millennial
+589,2026-04-23,USA,Organic,Millennial
+590,2026-02-24,USA,Organic,Gen X
+591,2026-04-05,USA,Pinterest,Millennial
+592,2026-05-26,USA,Facebook,Gen X
+593,2026-05-22,USA,Pinterest,Gen X
+594,2026-05-24,USA,Facebook,Millennial
+595,2026-06-13,USA,Pinterest,Millennial
+596,2026-05-21,USA,Facebook,Gen Z
+597,2026-05-15,USA,Pinterest,Millennial
+598,2026-02-11,USA,Pinterest,Gen X
+599,2026-04-18,USA,Organic,Millennial
+600,2026-04-27,USA,Pinterest,Gen Z
+601,2026-04-17,USA,Facebook,Millennial
+602,2026-05-24,USA,Facebook,Millennial
+603,2026-06-23,USA,Facebook,Millennial
+604,2026-02-08,USA,Pinterest,Gen Z
+605,2026-04-11,USA,Facebook,Millennial
+606,2026-02-20,USA,Pinterest,Millennial
+607,2026-05-23,USA,Pinterest,Millennial
+608,2026-04-10,USA,Organic,Millennial
+609,2026-02-22,USA,Facebook,Millennial
+610,2026-04-08,USA,Referral,Millennial
+611,2026-04-25,USA,Referral,Gen Z
+612,2026-04-01,USA,Facebook,Millennial
+613,2026-05-25,USA,Facebook,Gen Z
+614,2026-04-01,USA,Facebook,Millennial
+615,2026-04-09,USA,Facebook,Gen X
+616,2026-06-13,USA,Pinterest,Gen X
+617,2026-01-21,USA,Facebook,Millennial
+618,2026-06-12,USA,Facebook,Gen Z
+619,2026-06-13,USA,Facebook,Millennial
+620,2026-06-22,USA,Organic,Millennial
+621,2026-03-18,USA,Pinterest,Gen X
+622,2026-02-12,USA,Pinterest,Millennial
+623,2026-05-02,USA,Pinterest,Gen Z
+624,2026-04-30,USA,Facebook,Gen Z
+625,2026-05-15,USA,Organic,Gen Z
+626,2026-01-30,USA,Facebook,Millennial
+627,2026-06-07,USA,Pinterest,Gen Z
+628,2026-05-29,USA,Pinterest,Gen X
+629,2026-05-12,USA,Organic,Millennial
+630,2026-04-15,USA,Facebook,Gen X
+631,2026-03-23,USA,Facebook,Millennial
+632,2026-03-19,USA,Pinterest,Millennial
+633,2026-04-01,USA,Organic,Gen Z
+634,2026-05-20,USA,Pinterest,Millennial
+635,2026-03-26,USA,Pinterest,Gen Z
+636,2026-06-03,USA,Pinterest,Gen X
+637,2026-04-13,USA,Referral,Gen Z
+638,2026-03-30,USA,Pinterest,Gen X
+639,2026-02-04,USA,Pinterest,Millennial
+640,2026-03-21,USA,Facebook,Millennial
+641,2026-06-01,USA,Pinterest,Gen Z
+642,2026-03-25,USA,Pinterest,Gen Z
+643,2026-06-14,USA,Pinterest,Millennial
+644,2026-05-30,USA,Pinterest,Millennial
+645,2026-02-09,USA,Pinterest,Gen Z
+646,2026-02-09,USA,Facebook,Millennial
+647,2026-06-04,USA,Referral,Millennial
+648,2026-05-16,USA,Facebook,Millennial
+649,2026-03-29,USA,Pinterest,Gen Z
+650,2026-02-06,USA,Facebook,Millennial
+651,2026-01-24,USA,Organic,Millennial
+652,2026-03-01,USA,Referral,Millennial
+653,2026-04-26,USA,Organic,Millennial
+654,2026-03-30,USA,Organic,Millennial
+655,2026-06-09,USA,Facebook,Gen X
+656,2026-04-10,USA,Pinterest,Gen X
+657,2026-06-03,USA,Facebook,Gen X
+658,2026-02-18,USA,Organic,Millennial
+659,2026-03-05,USA,Organic,Millennial
+660,2026-05-12,USA,Facebook,Gen Z
+661,2026-01-18,USA,Facebook,Gen Z
+662,2026-06-09,USA,Facebook,Millennial
+663,2026-06-20,USA,Organic,Gen X
+664,2026-05-04,USA,Facebook,Millennial
+665,2026-02-08,USA,Pinterest,Millennial
+666,2026-04-07,USA,Referral,Millennial
+667,2026-04-23,USA,Pinterest,Gen Z
+668,2026-04-09,USA,Pinterest,Gen Z
+669,2026-01-17,USA,Pinterest,Millennial
+670,2026-03-16,USA,Pinterest,Millennial
+671,2026-04-03,USA,Pinterest,Gen Z
+672,2026-04-04,USA,Facebook,Gen Z
+673,2026-03-31,USA,Pinterest,Millennial
+674,2026-02-18,USA,Facebook,Millennial
+675,2026-06-19,USA,Pinterest,Gen Z
+676,2026-05-15,USA,Organic,Gen Z
+677,2026-03-11,USA,Organic,Gen Z
+678,2026-06-16,USA,Organic,Millennial
+679,2026-05-09,USA,Facebook,Millennial
+680,2026-06-08,USA,Pinterest,Gen Z
+681,2026-05-24,USA,Pinterest,Millennial
+682,2026-02-26,USA,Pinterest,Millennial
+683,2026-02-13,USA,Facebook,Gen Z
+684,2026-05-20,USA,Pinterest,Millennial
+685,2026-01-29,USA,Facebook,Millennial
+686,2026-05-11,USA,Facebook,Gen Z
+687,2026-04-03,USA,Facebook,Millennial
+688,2026-01-15,USA,Facebook,Gen Z
+689,2026-01-26,USA,Pinterest,Gen Z
+690,2026-06-02,USA,Referral,Gen X
+691,2026-02-01,USA,Referral,Millennial
+692,2026-03-29,USA,Pinterest,Gen Z
+693,2026-05-02,USA,Pinterest,Gen X
+694,2026-05-09,USA,Organic,Gen X
+695,2026-04-21,USA,Pinterest,Gen X
+696,2026-06-02,USA,Pinterest,Gen X
+697,2026-02-14,USA,Pinterest,Millennial
+698,2026-05-30,USA,Pinterest,Gen X
+699,2026-01-15,USA,Organic,Gen X
+700,2026-05-13,USA,Facebook,Millennial
+701,2026-05-31,USA,Pinterest,Millennial
+702,2026-05-12,USA,Pinterest,Millennial
+703,2026-02-12,USA,Pinterest,Gen Z
+704,2026-06-21,USA,Organic,Gen X
+705,2026-01-19,USA,Pinterest,Millennial
+706,2026-06-16,USA,Pinterest,Gen Z
+707,2026-01-27,USA,Pinterest,Millennial
+708,2026-05-07,USA,Pinterest,Millennial
+709,2026-01-29,USA,Pinterest,Gen X
+710,2026-03-15,USA,Organic,Gen Z
+711,2026-04-06,USA,Facebook,Gen Z
+712,2026-04-07,USA,Pinterest,Gen X
+713,2026-05-28,USA,Pinterest,Millennial
+714,2026-01-30,USA,Facebook,Gen Z
+715,2026-02-28,USA,Facebook,Millennial
+716,2026-05-21,USA,Pinterest,Millennial
+717,2026-04-22,USA,Organic,Millennial
+718,2026-05-01,USA,Pinterest,Millennial
+719,2026-03-03,USA,Organic,Millennial
+720,2026-03-13,USA,Pinterest,Gen Z
+721,2026-05-13,USA,Organic,Gen Z
+722,2026-05-01,USA,Facebook,Millennial
+723,2026-03-18,USA,Pinterest,Millennial
+724,2026-02-04,USA,Organic,Gen Z
+725,2026-02-07,USA,Facebook,Gen Z
+726,2026-01-28,USA,Pinterest,Gen Z
+727,2026-06-18,USA,Pinterest,Millennial
+728,2026-06-14,USA,Facebook,Gen Z
+729,2026-05-17,USA,Pinterest,Gen X
+730,2026-04-02,USA,Referral,Millennial
+731,2026-03-04,USA,Referral,Millennial
+732,2026-05-17,USA,Organic,Gen Z
+733,2026-03-08,USA,Pinterest,Millennial
+734,2026-04-07,USA,Organic,Millennial
+735,2026-05-31,USA,Facebook,Millennial
+736,2026-04-17,USA,Facebook,Millennial
+737,2026-02-09,USA,Organic,Gen Z
+738,2026-04-06,USA,Organic,Millennial
+739,2026-04-30,USA,Pinterest,Gen X
+740,2026-02-21,USA,Pinterest,Gen Z
+741,2026-06-13,USA,Facebook,Millennial
+742,2026-02-23,USA,Pinterest,Millennial
+743,2026-06-09,USA,Organic,Millennial
+744,2026-04-11,USA,Pinterest,Gen Z
+745,2026-05-20,USA,Facebook,Gen Z
+746,2026-04-15,USA,Pinterest,Gen Z
+747,2026-05-20,USA,Pinterest,Gen X
+748,2026-01-30,USA,Facebook,Gen Z
+749,2026-02-03,USA,Referral,Gen Z
+750,2026-01-16,USA,Pinterest,Gen Z
+751,2026-03-15,USA,Pinterest,Millennial
+752,2026-03-11,USA,Facebook,Millennial
+753,2026-06-22,USA,Facebook,Gen X
+754,2026-05-18,USA,Facebook,Millennial
+755,2026-05-31,USA,Facebook,Millennial
+756,2026-05-30,USA,Facebook,Millennial
+757,2026-03-29,USA,Pinterest,Gen Z
+758,2026-05-05,USA,Organic,Gen X
+759,2026-02-11,USA,Organic,Millennial
+760,2026-03-17,USA,Pinterest,Millennial
+761,2026-04-15,USA,Pinterest,Millennial
+762,2026-04-20,USA,Referral,Millennial
+763,2026-03-18,USA,Referral,Millennial
+764,2026-02-04,USA,Facebook,Gen X
+765,2026-01-23,USA,Pinterest,Millennial
+766,2026-06-05,USA,Facebook,Gen Z
+767,2026-02-27,USA,Pinterest,Gen Z
+768,2026-04-09,USA,Facebook,Gen X
+769,2026-02-08,USA,Organic,Gen X
+770,2026-03-14,USA,Pinterest,Gen X
+771,2026-06-09,USA,Facebook,Millennial
+772,2026-02-03,USA,Facebook,Millennial
+773,2026-06-03,USA,Facebook,Millennial
+774,2026-04-05,USA,Pinterest,Millennial
+775,2026-02-20,USA,Organic,Gen Z
+776,2026-04-26,USA,Organic,Millennial
+777,2026-06-08,USA,Pinterest,Gen Z
+778,2026-04-24,USA,Facebook,Millennial
+779,2026-04-23,USA,Organic,Millennial
+780,2026-02-04,USA,Facebook,Gen X
+781,2026-01-28,USA,Pinterest,Millennial
+782,2026-02-03,USA,Pinterest,Gen Z
+783,2026-06-16,USA,Pinterest,Gen Z
+784,2026-01-22,USA,Facebook,Gen Z
+785,2026-05-10,USA,Facebook,Millennial
+786,2026-04-21,USA,Pinterest,Gen Z
+787,2026-04-22,USA,Pinterest,Gen Z
+788,2026-03-19,USA,Facebook,Millennial
+789,2026-02-23,USA,Pinterest,Gen Z
+790,2026-02-23,USA,Facebook,Millennial
+791,2026-02-11,USA,Pinterest,Gen X
+792,2026-05-08,USA,Pinterest,Millennial
+793,2026-02-17,USA,Pinterest,Millennial
+794,2026-06-06,USA,Facebook,Millennial
+795,2026-01-21,USA,Pinterest,Gen Z
+796,2026-06-16,USA,Facebook,Millennial
+797,2026-04-23,USA,Pinterest,Millennial
+798,2026-02-05,USA,Facebook,Gen Z
+799,2026-03-18,USA,Facebook,Millennial
+800,2026-04-22,USA,Pinterest,Millennial
+801,2026-03-24,USA,Facebook,Millennial
+802,2026-05-06,USA,Pinterest,Millennial
+803,2026-02-03,USA,Pinterest,Gen X
+804,2026-06-24,USA,Facebook,Gen Z
+805,2026-05-12,USA,Pinterest,Millennial
+806,2026-04-26,USA,Pinterest,Gen Z
+807,2026-04-09,USA,Pinterest,Millennial
+808,2026-06-16,USA,Pinterest,Millennial
+809,2026-03-07,USA,Facebook,Millennial
+810,2026-04-26,USA,Referral,Millennial
+811,2026-05-20,USA,Referral,Gen Z
+812,2026-04-08,USA,Pinterest,Gen Z
+813,2026-04-25,USA,Pinterest,Gen X
+814,2026-03-07,USA,Facebook,Millennial
+815,2026-06-04,USA,Pinterest,Gen Z
+816,2026-03-09,USA,Pinterest,Millennial
+817,2026-02-01,USA,Organic,Gen Z
+818,2026-04-29,USA,Facebook,Millennial
+819,2026-04-02,USA,Pinterest,Gen Z
+820,2026-05-03,USA,Organic,Millennial
+821,2026-06-17,USA,Facebook,Millennial
+822,2026-05-24,USA,Organic,Gen X
+823,2026-05-02,USA,Facebook,Gen Z
+824,2026-04-17,USA,Facebook,Gen Z
+825,2026-06-16,USA,Facebook,Millennial
+826,2026-03-19,USA,Facebook,Millennial
+827,2026-06-20,USA,Pinterest,Gen X
+828,2026-04-27,USA,Referral,Millennial
+829,2026-05-05,USA,Pinterest,Millennial
+830,2026-03-12,USA,Facebook,Millennial
+831,2026-06-12,USA,Facebook,Millennial
+832,2026-04-20,USA,Pinterest,Gen Z
+833,2026-06-14,USA,Facebook,Millennial
+834,2026-01-21,USA,Facebook,Millennial
+835,2026-02-05,USA,Pinterest,Gen X
+836,2026-02-20,USA,Pinterest,Millennial
+837,2026-03-08,USA,Facebook,Millennial
+838,2026-02-08,USA,Pinterest,Gen Z
+839,2026-04-06,USA,Pinterest,Millennial
+840,2026-02-13,USA,Pinterest,Millennial
+841,2026-02-11,USA,Facebook,Millennial
+842,2026-03-18,USA,Facebook,Gen Z
+843,2026-04-09,USA,Facebook,Gen X
+844,2026-03-15,USA,Organic,Gen Z
+845,2026-03-03,USA,Facebook,Millennial
+846,2026-01-22,USA,Facebook,Gen X
+847,2026-05-10,USA,Facebook,Millennial
+848,2026-03-10,USA,Pinterest,Gen Z
+849,2026-01-31,USA,Facebook,Gen Z
+850,2026-06-01,USA,Pinterest,Millennial
+851,2026-05-12,USA,Pinterest,Gen Z
+852,2026-05-20,USA,Facebook,Gen Z
+853,2026-06-16,USA,Pinterest,Millennial
+854,2026-02-13,USA,Pinterest,Gen Z
+855,2026-06-22,USA,Pinterest,Gen Z
+856,2026-04-01,USA,Organic,Gen Z
+857,2026-02-18,USA,Pinterest,Millennial
+858,2026-02-13,USA,Pinterest,Gen Z
+859,2026-05-25,USA,Pinterest,Gen Z
+860,2026-06-11,USA,Pinterest,Millennial
+861,2026-06-01,USA,Facebook,Gen Z
+862,2026-02-28,USA,Facebook,Millennial
+863,2026-02-19,USA,Pinterest,Gen Z
+864,2026-06-22,USA,Pinterest,Millennial
+865,2026-01-17,USA,Facebook,Millennial
+866,2026-04-23,USA,Referral,Millennial
+867,2026-05-21,USA,Pinterest,Millennial
+868,2026-05-08,USA,Facebook,Millennial
+869,2026-01-22,USA,Organic,Millennial
+870,2026-01-23,USA,Pinterest,Millennial
+871,2026-02-27,USA,Organic,Gen Z
+872,2026-05-21,USA,Facebook,Millennial
+873,2026-02-13,USA,Pinterest,Millennial
+874,2026-04-18,USA,Facebook,Gen Z
+875,2026-05-07,USA,Facebook,Gen X
+876,2026-02-10,USA,Facebook,Gen Z
+877,2026-03-19,USA,Pinterest,Gen X
+878,2026-05-10,USA,Pinterest,Gen X
+879,2026-02-06,USA,Pinterest,Gen X
+880,2026-03-16,USA,Pinterest,Gen Z
+881,2026-04-14,USA,Organic,Gen Z
+882,2026-05-04,USA,Pinterest,Millennial
+883,2026-03-08,USA,Organic,Gen Z
+884,2026-06-09,USA,Pinterest,Millennial
+885,2026-06-01,USA,Pinterest,Gen X
+886,2026-03-30,USA,Pinterest,Millennial
+887,2026-05-26,USA,Referral,Gen Z
+888,2026-02-08,USA,Pinterest,Gen Z
+889,2026-04-30,USA,Organic,Gen X
+890,2026-02-16,USA,Facebook,Millennial
+891,2026-02-21,USA,Facebook,Gen Z
+892,2026-04-25,USA,Facebook,Gen Z
+893,2026-03-24,USA,Facebook,Millennial
+894,2026-02-03,USA,Facebook,Gen X
+895,2026-02-07,USA,Pinterest,Gen Z
+896,2026-04-19,USA,Facebook,Millennial
+897,2026-06-12,USA,Pinterest,Gen Z
+898,2026-02-07,USA,Facebook,Millennial
+899,2026-04-16,USA,Organic,Gen Z
+900,2026-04-26,USA,Pinterest,Millennial
+901,2026-03-10,USA,Facebook,Millennial
+902,2026-03-28,USA,Pinterest,Gen Z
+903,2026-06-08,USA,Organic,Gen Z
+904,2026-01-27,USA,Pinterest,Gen Z
+905,2026-05-12,USA,Pinterest,Gen X
+906,2026-02-24,USA,Pinterest,Millennial
+907,2026-05-04,USA,Pinterest,Gen Z
+908,2026-02-17,USA,Organic,Millennial
+909,2026-03-26,USA,Pinterest,Millennial
+910,2026-02-05,USA,Pinterest,Gen X
+911,2026-02-26,USA,Pinterest,Gen Z
+912,2026-03-15,USA,Pinterest,Millennial
+913,2026-02-08,USA,Pinterest,Millennial
+914,2026-02-17,USA,Facebook,Millennial
+915,2026-05-08,USA,Pinterest,Gen Z
+916,2026-02-14,USA,Referral,Millennial
+917,2026-02-17,USA,Facebook,Millennial
+918,2026-02-06,USA,Facebook,Millennial
+919,2026-04-05,USA,Pinterest,Millennial
+920,2026-04-22,USA,Organic,Gen Z
+921,2026-02-18,USA,Facebook,Gen Z
+922,2026-02-01,USA,Facebook,Millennial
+923,2026-02-26,USA,Pinterest,Gen Z
+924,2026-06-24,USA,Facebook,Gen X
+925,2026-06-21,USA,Facebook,Gen X
+926,2026-02-06,USA,Organic,Millennial
+927,2026-02-15,USA,Facebook,Millennial
+928,2026-05-04,USA,Pinterest,Millennial
+929,2026-03-26,USA,Facebook,Millennial
+930,2026-06-17,USA,Facebook,Gen Z
+931,2026-01-21,USA,Organic,Gen Z
+932,2026-04-02,USA,Pinterest,Gen Z
+933,2026-03-04,USA,Facebook,Millennial
+934,2026-01-28,USA,Organic,Gen Z
+935,2026-03-17,USA,Facebook,Millennial
+936,2026-05-22,USA,Facebook,Millennial
+937,2026-01-18,USA,Referral,Gen X
+938,2026-02-17,USA,Pinterest,Gen Z
+939,2026-05-02,USA,Pinterest,Gen Z
+940,2026-05-15,USA,Referral,Gen Z
+941,2026-01-19,USA,Facebook,Millennial
+942,2026-03-11,USA,Pinterest,Millennial
+943,2026-04-26,USA,Facebook,Gen Z
+944,2026-05-23,USA,Organic,Millennial
+945,2026-04-27,USA,Pinterest,Millennial
+946,2026-06-21,USA,Pinterest,Millennial
+947,2026-02-04,USA,Facebook,Millennial
+948,2026-02-23,USA,Facebook,Millennial
+949,2026-01-31,USA,Pinterest,Millennial
+950,2026-03-17,USA,Pinterest,Millennial
+951,2026-05-06,USA,Pinterest,Gen Z
+952,2026-01-29,USA,Pinterest,Gen Z
+953,2026-02-28,USA,Pinterest,Gen Z
+954,2026-01-17,USA,Pinterest,Gen X
+955,2026-05-28,USA,Facebook,Gen Z
+956,2026-03-22,USA,Pinterest,Millennial
+957,2026-03-24,USA,Facebook,Millennial
+958,2026-01-22,USA,Pinterest,Millennial
+959,2026-05-29,USA,Pinterest,Gen Z
+960,2026-06-11,USA,Facebook,Millennial
+961,2026-05-25,USA,Pinterest,Millennial
+962,2026-06-09,USA,Pinterest,Millennial
+963,2026-02-10,USA,Organic,Gen Z
+964,2026-02-13,USA,Pinterest,Millennial
+965,2026-01-26,USA,Organic,Millennial
+966,2026-01-26,USA,Facebook,Millennial
+967,2026-02-22,USA,Pinterest,Gen X
+968,2026-01-24,USA,Facebook,Gen X
+969,2026-05-02,USA,Pinterest,Millennial
+970,2026-04-06,USA,Pinterest,Millennial
+971,2026-04-20,USA,Pinterest,Gen Z
+972,2026-01-28,USA,Pinterest,Gen Z
+973,2026-01-26,USA,Referral,Millennial
+974,2026-05-14,USA,Organic,Gen Z
+975,2026-04-04,USA,Pinterest,Gen Z
+976,2026-01-17,USA,Pinterest,Millennial
+977,2026-04-02,USA,Facebook,Millennial
+978,2026-04-19,USA,Facebook,Millennial
+979,2026-03-06,USA,Facebook,Millennial
+980,2026-03-18,USA,Pinterest,Gen X
+981,2026-01-21,USA,Pinterest,Millennial
+982,2026-01-17,USA,Referral,Millennial
+983,2026-04-21,USA,Organic,Gen Z
+984,2026-02-10,USA,Pinterest,Gen X
+985,2026-05-02,USA,Facebook,Millennial
+986,2026-02-20,USA,Facebook,Millennial
+987,2026-03-15,USA,Organic,Millennial
+988,2026-04-20,USA,Facebook,Gen Z
+989,2026-06-12,USA,Pinterest,Millennial
+990,2026-04-25,USA,Pinterest,Gen Z
+991,2026-05-06,USA,Facebook,Millennial
+992,2026-03-30,USA,Pinterest,Millennial
+993,2026-04-25,USA,Facebook,Gen Z
+994,2026-04-06,USA,Facebook,Millennial
+995,2026-03-07,USA,Pinterest,Gen Z
+996,2026-02-11,USA,Pinterest,Millennial
+997,2026-05-14,USA,Pinterest,Millennial
+998,2026-04-16,USA,Referral,Millennial
+999,2026-04-03,USA,Facebook,Gen X
+1000,2026-02-07,USA,Pinterest,Gen Z
+1001,2026-06-18,USA,Pinterest,Gen Z
+1002,2026-04-08,USA,Pinterest,Gen Z
+1003,2026-04-16,USA,Pinterest,Millennial
+1004,2026-04-01,USA,Pinterest,Gen X
+1005,2026-01-22,USA,Referral,Gen X
+1006,2026-06-06,USA,Facebook,Millennial
+1007,2026-05-13,USA,Pinterest,Gen Z
+1008,2026-02-15,USA,Pinterest,Gen Z
+1009,2026-03-12,USA,Pinterest,Gen Z
+1010,2026-04-20,USA,Facebook,Gen X
+1011,2026-02-05,USA,Facebook,Millennial
+1012,2026-02-03,USA,Pinterest,Millennial
+1013,2026-05-08,USA,Organic,Millennial
+1014,2026-04-09,USA,Pinterest,Gen X
+1015,2026-01-27,USA,Pinterest,Gen Z
+1016,2026-04-26,USA,Facebook,Millennial
+1017,2026-05-04,USA,Pinterest,Millennial
+1018,2026-03-03,USA,Pinterest,Millennial
+1019,2026-02-22,USA,Pinterest,Gen Z
+1020,2026-03-18,USA,Facebook,Millennial
+1021,2026-06-04,USA,Facebook,Millennial
+1022,2026-04-23,USA,Pinterest,Millennial
+1023,2026-05-29,USA,Pinterest,Gen X
+1024,2026-06-03,USA,Organic,Gen X
+1025,2026-04-16,USA,Facebook,Gen Z
+1026,2026-04-13,USA,Organic,Millennial
+1027,2026-04-24,USA,Pinterest,Millennial
+1028,2026-06-16,USA,Pinterest,Gen X
+1029,2026-03-27,USA,Pinterest,Gen X
+1030,2026-05-30,USA,Pinterest,Gen Z
+1031,2026-03-15,USA,Referral,Millennial
+1032,2026-03-17,USA,Pinterest,Gen Z
+1033,2026-01-29,USA,Organic,Gen X
+1034,2026-06-11,USA,Organic,Gen Z
+1035,2026-04-15,USA,Referral,Gen X
+1036,2026-02-28,USA,Pinterest,Gen Z
+1037,2026-04-16,USA,Organic,Millennial
+1038,2026-04-15,USA,Referral,Gen Z
+1039,2026-06-08,USA,Referral,Gen Z
+1040,2026-05-21,USA,Facebook,Millennial
+1041,2026-01-24,USA,Pinterest,Millennial
+1042,2026-03-12,USA,Pinterest,Millennial
+1043,2026-04-09,USA,Organic,Millennial
+1044,2026-02-17,USA,Pinterest,Millennial
+1045,2026-04-07,USA,Pinterest,Millennial
+1046,2026-02-20,USA,Organic,Gen Z
+1047,2026-04-18,USA,Referral,Millennial
+1048,2026-04-26,USA,Facebook,Millennial
+1049,2026-04-07,USA,Pinterest,Millennial
+1050,2026-05-06,USA,Organic,Gen X
+1051,2026-04-06,USA,Pinterest,Gen X
+1052,2026-06-21,USA,Organic,Millennial
+1053,2026-06-14,USA,Organic,Millennial
+1054,2026-03-31,USA,Pinterest,Gen Z
+1055,2026-06-10,USA,Pinterest,Gen X
+1056,2026-06-09,USA,Pinterest,Gen Z
+1057,2026-06-20,USA,Pinterest,Gen Z
+1058,2026-05-22,USA,Pinterest,Gen Z
+1059,2026-03-16,USA,Pinterest,Millennial
+1060,2026-02-06,USA,Organic,Gen Z
+1061,2026-04-10,USA,Pinterest,Millennial
+1062,2026-03-19,USA,Facebook,Millennial
+1063,2026-02-11,USA,Facebook,Millennial
+1064,2026-05-07,USA,Facebook,Gen X
+1065,2026-04-30,USA,Facebook,Millennial
+1066,2026-06-03,USA,Pinterest,Gen Z
+1067,2026-06-11,USA,Facebook,Gen Z
+1068,2026-02-25,USA,Facebook,Gen Z
+1069,2026-01-23,USA,Pinterest,Millennial
+1070,2026-02-10,USA,Pinterest,Millennial
+1071,2026-04-21,USA,Pinterest,Millennial
+1072,2026-02-07,USA,Pinterest,Gen X
+1073,2026-05-18,USA,Facebook,Millennial
+1074,2026-02-26,USA,Facebook,Millennial
+1075,2026-01-28,USA,Pinterest,Millennial
+1076,2026-03-04,USA,Pinterest,Gen Z
+1077,2026-06-02,USA,Pinterest,Millennial
+1078,2026-03-16,USA,Pinterest,Millennial
+1079,2026-06-04,USA,Organic,Millennial
+1080,2026-04-17,USA,Pinterest,Millennial
+1081,2026-06-24,USA,Facebook,Millennial
+1082,2026-01-21,USA,Pinterest,Gen Z
+1083,2026-02-04,USA,Facebook,Millennial
+1084,2026-04-26,USA,Facebook,Gen X
+1085,2026-03-23,USA,Pinterest,Millennial
+1086,2026-03-03,USA,Pinterest,Millennial
+1087,2026-03-03,USA,Pinterest,Millennial
+1088,2026-05-14,USA,Pinterest,Gen Z
+1089,2026-06-08,USA,Pinterest,Gen Z
+1090,2026-02-08,USA,Pinterest,Millennial
+1091,2026-06-02,USA,Pinterest,Gen Z
+1092,2026-03-14,USA,Facebook,Gen Z
+1093,2026-05-28,USA,Pinterest,Millennial
+1094,2026-05-16,USA,Facebook,Millennial
+1095,2026-04-01,USA,Pinterest,Gen X
+1096,2026-01-23,USA,Facebook,Gen X
+1097,2026-06-10,USA,Facebook,Gen Z
+1098,2026-02-14,USA,Referral,Millennial
+1099,2026-02-26,USA,Referral,Gen Z
+1100,2026-02-16,USA,Pinterest,Millennial
+1101,2026-05-06,USA,Pinterest,Gen Z
+1102,2026-02-21,USA,Organic,Millennial
+1103,2026-02-01,USA,Pinterest,Gen Z
+1104,2026-06-05,USA,Pinterest,Millennial
+1105,2026-05-12,USA,Organic,Millennial
+1106,2026-06-23,USA,Facebook,Gen Z
+1107,2026-02-12,USA,Pinterest,Millennial
+1108,2026-06-14,USA,Facebook,Gen X
+1109,2026-02-09,USA,Organic,Gen Z
+1110,2026-02-09,USA,Organic,Gen X
+1111,2026-04-13,USA,Organic,Millennial
+1112,2026-05-19,USA,Facebook,Millennial
+1113,2026-02-28,USA,Pinterest,Millennial
+1114,2026-06-19,USA,Facebook,Millennial
+1115,2026-04-26,USA,Organic,Millennial
+1116,2026-03-16,USA,Pinterest,Millennial
+1117,2026-03-24,USA,Organic,Millennial
+1118,2026-04-02,USA,Pinterest,Gen Z
+1119,2026-02-09,USA,Referral,Millennial
+1120,2026-04-01,USA,Referral,Millennial
+1121,2026-04-07,USA,Pinterest,Millennial
+1122,2026-02-06,USA,Pinterest,Millennial
+1123,2026-04-29,USA,Facebook,Gen Z
+1124,2026-04-20,USA,Organic,Millennial
+1125,2026-02-24,USA,Pinterest,Gen Z
+1126,2026-04-28,USA,Pinterest,Gen X
+1127,2026-06-09,USA,Pinterest,Millennial
+1128,2026-03-07,USA,Organic,Millennial
+1129,2026-05-11,USA,Pinterest,Millennial
+1130,2026-03-06,USA,Pinterest,Gen Z
+1131,2026-05-24,USA,Pinterest,Gen X
+1132,2026-01-22,USA,Pinterest,Millennial
+1133,2026-05-09,USA,Pinterest,Gen X
+1134,2026-06-14,USA,Facebook,Millennial
+1135,2026-03-22,USA,Facebook,Gen Z
+1136,2026-03-28,USA,Pinterest,Millennial
+1137,2026-06-10,USA,Organic,Millennial
+1138,2026-03-12,USA,Facebook,Gen Z
+1139,2026-03-24,USA,Facebook,Millennial
+1140,2026-01-17,USA,Facebook,Millennial
+1141,2026-02-28,USA,Facebook,Millennial
+1142,2026-03-20,USA,Facebook,Gen X
+1143,2026-03-26,USA,Pinterest,Millennial
+1144,2026-04-14,USA,Facebook,Millennial
+1145,2026-04-02,USA,Facebook,Gen Z
+1146,2026-04-26,USA,Facebook,Millennial
+1147,2026-04-20,USA,Facebook,Gen Z
+1148,2026-03-28,USA,Pinterest,Millennial
+1149,2026-01-31,USA,Pinterest,Millennial
+1150,2026-04-08,USA,Organic,Millennial
+1151,2026-04-01,USA,Pinterest,Millennial
+1152,2026-03-17,USA,Organic,Gen Z
+1153,2026-06-17,USA,Pinterest,Millennial
+1154,2026-02-19,USA,Facebook,Gen Z
+1155,2026-03-31,USA,Pinterest,Millennial
+1156,2026-04-24,USA,Facebook,Gen Z
+1157,2026-06-10,USA,Organic,Millennial
+1158,2026-03-12,USA,Facebook,Gen Z
+1159,2026-05-16,USA,Organic,Gen Z
+1160,2026-05-24,USA,Pinterest,Millennial
+1161,2026-06-06,USA,Pinterest,Millennial
+1162,2026-02-16,USA,Facebook,Gen Z
+1163,2026-06-07,USA,Organic,Millennial
+1164,2026-04-10,USA,Facebook,Millennial
+1165,2026-03-13,USA,Facebook,Millennial
+1166,2026-04-09,USA,Pinterest,Gen Z
+1167,2026-05-13,USA,Organic,Millennial
+1168,2026-06-13,USA,Facebook,Gen Z
+1169,2026-05-15,USA,Organic,Millennial
+1170,2026-04-22,USA,Facebook,Millennial
+1171,2026-02-22,USA,Pinterest,Millennial
+1172,2026-04-29,USA,Referral,Gen X
+1173,2026-05-12,USA,Pinterest,Gen X
+1174,2026-03-02,USA,Organic,Millennial
+1175,2026-03-01,USA,Pinterest,Millennial
+1176,2026-05-10,USA,Pinterest,Gen Z
+1177,2026-02-27,USA,Facebook,Millennial
+1178,2026-02-06,USA,Pinterest,Millennial
+1179,2026-05-04,USA,Pinterest,Gen X
+1180,2026-04-23,USA,Pinterest,Millennial
+1181,2026-04-20,USA,Referral,Gen X
+1182,2026-05-30,USA,Pinterest,Gen Z
+1183,2026-06-24,USA,Facebook,Millennial
+1184,2026-04-13,USA,Pinterest,Millennial
+1185,2026-05-23,USA,Facebook,Millennial
+1186,2026-01-26,USA,Pinterest,Millennial
+1187,2026-05-28,USA,Facebook,Millennial
+1188,2026-02-18,USA,Pinterest,Gen X
+1189,2026-04-16,USA,Organic,Millennial
+1190,2026-04-28,USA,Pinterest,Millennial
+1191,2026-02-17,USA,Pinterest,Millennial
+1192,2026-05-24,USA,Pinterest,Millennial
+1193,2026-01-24,USA,Pinterest,Gen Z
+1194,2026-05-31,USA,Facebook,Gen Z
+1195,2026-01-27,USA,Facebook,Gen Z
+1196,2026-01-20,USA,Pinterest,Millennial
+1197,2026-05-08,USA,Pinterest,Millennial
+1198,2026-05-16,USA,Facebook,Millennial
+1199,2026-01-17,USA,Pinterest,Gen Z
+1200,2026-05-28,USA,Pinterest,Gen Z
+1201,2026-02-19,USA,Pinterest,Gen X
+1202,2026-05-25,USA,Facebook,Millennial
+1203,2026-02-13,USA,Organic,Millennial
+1204,2026-06-19,USA,Pinterest,Millennial
+1205,2026-05-28,USA,Referral,Millennial
+1206,2026-04-29,USA,Pinterest,Millennial
+1207,2026-05-22,USA,Organic,Gen Z
+1208,2026-05-18,USA,Pinterest,Millennial
+1209,2026-02-06,USA,Organic,Gen Z
+1210,2026-05-21,USA,Pinterest,Millennial
+1211,2026-05-25,USA,Pinterest,Gen Z
+1212,2026-03-21,USA,Facebook,Millennial
+1213,2026-03-31,USA,Pinterest,Millennial
+1214,2026-02-28,USA,Organic,Gen X
+1215,2026-04-17,USA,Organic,Millennial
+1216,2026-02-13,USA,Pinterest,Gen Z
+1217,2026-01-26,USA,Pinterest,Millennial
+1218,2026-02-27,USA,Pinterest,Gen X
+1219,2026-06-23,USA,Pinterest,Gen Z
+1220,2026-04-20,USA,Organic,Millennial
+1221,2026-04-27,USA,Pinterest,Millennial
+1222,2026-04-23,USA,Facebook,Millennial
+1223,2026-05-02,USA,Facebook,Gen Z
+1224,2026-02-12,USA,Pinterest,Gen Z
+1225,2026-02-24,USA,Pinterest,Gen X
+1226,2026-05-18,USA,Organic,Gen Z
+1227,2026-03-02,USA,Facebook,Gen Z
+1228,2026-06-20,USA,Pinterest,Gen Z
+1229,2026-02-17,USA,Facebook,Millennial
+1230,2026-04-30,USA,Pinterest,Millennial
+1231,2026-04-05,USA,Pinterest,Gen X
+1232,2026-05-29,USA,Organic,Gen Z
+1233,2026-06-08,USA,Pinterest,Gen X
+1234,2026-04-11,USA,Facebook,Gen Z
+1235,2026-06-22,USA,Pinterest,Gen Z
+1236,2026-03-19,USA,Facebook,Gen Z
+1237,2026-04-23,USA,Pinterest,Gen Z
+1238,2026-06-20,USA,Pinterest,Gen Z
+1239,2026-02-24,USA,Facebook,Millennial
+1240,2026-05-21,USA,Organic,Millennial
+1241,2026-05-20,USA,Pinterest,Millennial
+1242,2026-03-27,USA,Pinterest,Millennial
+1243,2026-04-21,USA,Pinterest,Millennial
+1244,2026-05-12,USA,Pinterest,Gen Z
+1245,2026-02-06,USA,Organic,Millennial
+1246,2026-02-14,USA,Referral,Gen Z
+1247,2026-01-19,USA,Pinterest,Millennial
+1248,2026-06-06,USA,Facebook,Gen Z
+1249,2026-06-18,USA,Referral,Gen Z
+1250,2026-05-25,USA,Facebook,Gen Z
+1251,2026-05-11,USA,Referral,Millennial
+1252,2026-01-28,USA,Organic,Gen Z
+1253,2026-04-09,USA,Facebook,Gen Z
+1254,2026-05-16,USA,Facebook,Millennial
+1255,2026-05-10,USA,Pinterest,Gen Z
+1256,2026-03-12,USA,Pinterest,Millennial
+1257,2026-03-30,USA,Facebook,Millennial
+1258,2026-02-11,USA,Pinterest,Millennial
+1259,2026-02-19,USA,Organic,Gen Z
+1260,2026-04-29,USA,Pinterest,Gen Z
+1261,2026-03-04,USA,Pinterest,Gen X
+1262,2026-03-11,USA,Facebook,Gen Z
+1263,2026-04-11,USA,Pinterest,Millennial
+1264,2026-06-14,USA,Pinterest,Gen X
+1265,2026-05-12,USA,Facebook,Gen X
+1266,2026-02-18,USA,Referral,Millennial
+1267,2026-01-27,USA,Facebook,Millennial
+1268,2026-06-13,USA,Facebook,Millennial
+1269,2026-03-01,USA,Facebook,Millennial
+1270,2026-02-16,USA,Pinterest,Gen Z
+1271,2026-06-19,USA,Organic,Millennial
+1272,2026-04-23,USA,Pinterest,Gen Z
+1273,2026-03-19,USA,Pinterest,Gen X
+1274,2026-03-31,USA,Facebook,Millennial
+1275,2026-04-30,USA,Facebook,Gen X
+1276,2026-05-26,USA,Pinterest,Gen Z
+1277,2026-04-05,USA,Facebook,Gen X
+1278,2026-03-11,USA,Pinterest,Gen Z
+1279,2026-03-30,USA,Facebook,Gen X
+1280,2026-02-17,USA,Referral,Gen Z
+1281,2026-03-01,USA,Facebook,Gen Z
+1282,2026-04-07,USA,Facebook,Gen Z
+1283,2026-06-07,USA,Facebook,Gen Z
+1284,2026-05-01,USA,Facebook,Gen X
+1285,2026-05-31,USA,Pinterest,Gen Z
+1286,2026-01-18,USA,Facebook,Millennial
+1287,2026-02-21,USA,Pinterest,Millennial
+1288,2026-03-24,USA,Organic,Millennial
+1289,2026-03-29,USA,Facebook,Millennial
+1290,2026-01-30,USA,Facebook,Millennial
+1291,2026-06-02,USA,Pinterest,Gen Z
+1292,2026-02-10,USA,Facebook,Gen Z
+1293,2026-06-07,USA,Organic,Gen Z
+1294,2026-06-07,USA,Pinterest,Millennial
+1295,2026-03-29,USA,Facebook,Millennial
+1296,2026-04-22,USA,Pinterest,Gen X
+1297,2026-04-05,USA,Referral,Millennial
+1298,2026-03-20,USA,Pinterest,Gen X
+1299,2026-05-08,USA,Organic,Gen X
+1300,2026-04-19,USA,Organic,Millennial
+1301,2026-06-18,USA,Pinterest,Gen Z
+1302,2026-03-05,USA,Pinterest,Millennial
+1303,2026-02-03,USA,Pinterest,Millennial
+1304,2026-05-26,USA,Pinterest,Millennial
+1305,2026-03-27,USA,Facebook,Millennial
+1306,2026-06-13,USA,Organic,Millennial
+1307,2026-05-14,USA,Facebook,Millennial
+1308,2026-02-23,USA,Organic,Gen Z
+1309,2026-06-24,USA,Facebook,Gen Z
+1310,2026-05-20,USA,Organic,Gen Z
+1311,2026-02-02,USA,Organic,Millennial
+1312,2026-03-12,USA,Referral,Millennial
+1313,2026-05-24,USA,Pinterest,Millennial
+1314,2026-04-28,USA,Pinterest,Millennial
+1315,2026-03-10,USA,Facebook,Millennial
+1316,2026-03-31,USA,Pinterest,Gen Z
+1317,2026-05-30,USA,Facebook,Gen Z
+1318,2026-01-17,USA,Pinterest,Millennial
+1319,2026-03-17,USA,Organic,Gen Z
+1320,2026-06-23,USA,Pinterest,Millennial
+1321,2026-04-07,USA,Pinterest,Gen Z
+1322,2026-02-13,USA,Pinterest,Millennial
+1323,2026-03-28,USA,Pinterest,Millennial
+1324,2026-04-20,USA,Facebook,Millennial
+1325,2026-05-19,USA,Pinterest,Gen X
+1326,2026-03-05,USA,Pinterest,Millennial
+1327,2026-02-08,USA,Pinterest,Gen X
+1328,2026-06-01,USA,Facebook,Gen Z
+1329,2026-03-09,USA,Facebook,Gen Z
+1330,2026-05-03,USA,Organic,Millennial
+1331,2026-05-06,USA,Facebook,Gen X
+1332,2026-02-23,USA,Pinterest,Gen Z
+1333,2026-01-24,USA,Pinterest,Millennial
+1334,2026-03-20,USA,Facebook,Gen Z
+1335,2026-03-14,USA,Organic,Millennial
+1336,2026-05-10,USA,Facebook,Millennial
+1337,2026-01-19,USA,Pinterest,Millennial
+1338,2026-01-16,USA,Facebook,Gen Z
+1339,2026-06-13,USA,Pinterest,Gen Z
+1340,2026-04-16,USA,Organic,Millennial
+1341,2026-04-02,USA,Facebook,Millennial
+1342,2026-05-07,USA,Pinterest,Gen Z
+1343,2026-01-22,USA,Facebook,Millennial
+1344,2026-02-18,USA,Facebook,Gen Z
+1345,2026-06-03,USA,Pinterest,Gen Z
+1346,2026-04-01,USA,Facebook,Gen X
+1347,2026-04-20,USA,Referral,Millennial
+1348,2026-06-06,USA,Pinterest,Millennial
+1349,2026-06-10,USA,Facebook,Millennial
+1350,2026-02-05,USA,Pinterest,Gen Z
+1351,2026-04-13,USA,Pinterest,Gen X
+1352,2026-05-26,USA,Pinterest,Millennial
+1353,2026-06-21,USA,Organic,Millennial
+1354,2026-03-02,USA,Facebook,Gen Z
+1355,2026-01-28,USA,Organic,Gen X
+1356,2026-06-04,USA,Facebook,Millennial
+1357,2026-03-30,USA,Facebook,Millennial
+1358,2026-03-06,USA,Facebook,Millennial
+1359,2026-04-09,USA,Pinterest,Gen Z
+1360,2026-03-16,USA,Pinterest,Gen Z
+1361,2026-03-05,USA,Pinterest,Millennial
+1362,2026-06-21,USA,Facebook,Gen Z
+1363,2026-02-23,USA,Facebook,Millennial
+1364,2026-04-05,USA,Referral,Millennial
+1365,2026-04-05,USA,Pinterest,Millennial
+1366,2026-05-06,USA,Pinterest,Millennial
+1367,2026-04-09,USA,Organic,Millennial
+1368,2026-04-16,USA,Organic,Millennial
+1369,2026-02-11,USA,Pinterest,Gen Z
+1370,2026-03-27,USA,Organic,Millennial
+1371,2026-06-01,USA,Pinterest,Gen Z
+1372,2026-06-24,USA,Pinterest,Millennial
+1373,2026-01-19,USA,Organic,Gen Z
+1374,2026-06-12,USA,Facebook,Gen Z
+1375,2026-03-10,USA,Organic,Gen Z
+1376,2026-06-03,USA,Organic,Millennial
+1377,2026-02-22,USA,Pinterest,Millennial
+1378,2026-06-14,USA,Facebook,Millennial
+1379,2026-05-13,USA,Facebook,Millennial
+1380,2026-04-18,USA,Facebook,Gen Z
+1381,2026-06-21,USA,Facebook,Gen Z
+1382,2026-02-19,USA,Pinterest,Millennial
+1383,2026-06-08,USA,Facebook,Gen X
+1384,2026-05-18,USA,Referral,Millennial
+1385,2026-05-19,USA,Pinterest,Millennial
+1386,2026-03-15,USA,Pinterest,Millennial
+1387,2026-04-17,USA,Pinterest,Gen X
+1388,2026-01-26,USA,Pinterest,Gen Z
+1389,2026-02-10,USA,Facebook,Millennial
+1390,2026-03-26,USA,Organic,Millennial
+1391,2026-06-03,USA,Facebook,Millennial
+1392,2026-04-21,USA,Pinterest,Gen Z
+1393,2026-02-03,USA,Facebook,Millennial
+1394,2026-03-13,USA,Facebook,Millennial
+1395,2026-04-13,USA,Facebook,Millennial
+1396,2026-06-18,USA,Pinterest,Gen X
+1397,2026-05-07,USA,Pinterest,Millennial
+1398,2026-03-27,USA,Pinterest,Millennial
+1399,2026-04-17,USA,Facebook,Gen Z
+1400,2026-03-14,USA,Pinterest,Millennial
